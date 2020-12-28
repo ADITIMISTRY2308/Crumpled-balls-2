@@ -1,2 +1,1 @@
-# Crumpled-balls-2
-project
+# CP-2
